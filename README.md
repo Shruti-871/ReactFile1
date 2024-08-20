@@ -1,3 +1,4 @@
+
 <<<<<<< HEAD
 Your local changes
 =======
@@ -77,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # MyProject
 >>>>>>> ca603ed13a4b8e54e1ba1be8a8b0aca91130b7cc
+=======
+# ReactFile1
+>>>>>>> ac0ef0a34cbf014d1cb3d839f5dfe65aeb19e919
